@@ -1,0 +1,6 @@
+{
+  "name": "CraftLauncher",
+  "description": "Minecraft Java Edition mobile launcher hub with offline/cracked accounts, Modrinth/CurseForge downloader, JRE manager, client-side skin/cape editor & controller mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
