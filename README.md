@@ -59,7 +59,7 @@ Craft Launcher is currently designed for:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Craft-Launcher.git
+git clone https://github.com/Turbono-1/Craft-Launcher.git
 cd Craft-Launcher
 ```
 
